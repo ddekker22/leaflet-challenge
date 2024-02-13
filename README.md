@@ -1,1 +1,3 @@
 # leaflet-challenge
+
+In this challenge, we created a map that contains data on earthquakes around the world using the Leaflet library in JavaScript. I relied heavily on the documentation provided by the creators, as well as example code from StackOverflow on creating the legend, editing the CSS file, and the oneachfeature option. I also referenced YouTube to better understand how the D3 library works for pulling in the JSON and geoJSON files, which was necessary for importing the data to be run by the various functions. My code is contained in the logic.js file within the following file path: Leaflet-Part-1 > static > js > logic.js. 
